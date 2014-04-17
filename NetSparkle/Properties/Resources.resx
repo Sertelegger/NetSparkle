@@ -134,7 +134,7 @@
     <value>Software update message</value>
   </data>
   <data name="DefaultNetSparkleUIFactory_ShowVersionIsSkippedByUserRequestMessage" xml:space="preserve">
-    <value>Your have elected to skip this version.</value>
+    <value>You have elected to skip this version.</value>
   </data>
   <data name="DefaultNetSparkleUIFactory_ShowCannotDownloadAppcastMessage" xml:space="preserve">
     <value>Sorry, either you aren't connected to the internet, or our server is having a problem.</value>
